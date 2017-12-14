@@ -25,11 +25,12 @@ If you're interested ...
 Watch out for "Geilhart von Sperma"
 
 About exploring Git:
-- created account beatst
+- created the account _beatst_
 - did some webform based examples:
-	- create a repository
+	- create a repository _hello-world_
 	- create a branch
 	- edit file in the branch
 - installed GIT client
 	- started a local repository
 	- edited this file starting at _About exploring Git_
+	- uploaded the changes
