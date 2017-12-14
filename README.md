@@ -23,3 +23,13 @@ I'd like to start a literature club for collaborated authoring
 in order to create the most advanced type of (possibly interactive) multimedia literature
 If you're interested ...
 Watch out for "Geilhart von Sperma"
+
+About exploring Git:
+- created account beatst
+- did some webform based examples:
+	- create a repository
+	- create a branch
+	- edit file in the branch
+- installed GIT client
+	- started a local repository
+	- edited this file starting at _About exploring Git_
