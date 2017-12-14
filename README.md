@@ -34,3 +34,5 @@ About exploring Git:
 	- started a local repository
 	- edited this file starting at _About exploring Git_
 	- uploaded the changes
+	- did a pull request
+	- did a merger to master
