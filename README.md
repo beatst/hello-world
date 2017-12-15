@@ -1,5 +1,5 @@
 # hello-world
-A rep for discribing my interests, goals, known tools and techniques 
+A rep for describing my interests, goals, known tools and techniques 
 
 about myself
 I was an active (lone wolf) programmer for the web between 1999 and 2013 with some breaks.
